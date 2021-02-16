@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: Über mich
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Mein Name ist Sascha Baranji und ich studiere Wirtschaftsinformatik an der Hochschule Albstadt-Sigmaringen
 </p>
 
 ![My helpful screenshot](/public/favicon.ico)
