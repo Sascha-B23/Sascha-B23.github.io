@@ -1,8 +1,7 @@
 # Setup
 title:               Sascha Baranji
 tagline:             'Student der Wirtschaftsinformatik'
-description:         '</a>Sascha Baranji</a>.'
-url:                 
+description:         '</a>Sascha Baranji</a>.'               
 baseurl:             ''
 paginate:            5
 permalink:           pretty
