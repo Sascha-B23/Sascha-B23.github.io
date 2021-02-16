@@ -7,5 +7,5 @@ title: Über mich
   Mein Name ist Sascha Baranji und ich studiere Wirtschaftsinformatik an der Hochschule Albstadt-Sigmaringen
 </p>
 
-![My helpful screenshot](/public/ich.png)
+![My helpful screenshot](\public\ich.JPG)
 
