@@ -1,0 +1,22 @@
+# Setup
+title:               Sascha Baranji
+tagline:             'Student der Wirtschaftsinformatik'
+description:         '</a>Sascha Baranji</a>.'
+url:                 http://localhost:4000/
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Sascha Baranji
+  url:               sascha-baranji.ml
+  email:             sascha.baranji@outlook.de
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
