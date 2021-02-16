@@ -3,7 +3,7 @@ title:               Sascha Baranji
 tagline:             'Student der Wirtschaftsinformatik'
 description:         '</a>Sascha Baranji</a>.'               
 baseurl:             ''
-paginate:            5
+paginate:            2
 permalink:           pretty
 
 # About/contact
