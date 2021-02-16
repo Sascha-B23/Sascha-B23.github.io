@@ -1,6 +1,6 @@
 ---
 layout: page
-title: COMPUTERPERFORMANZ BEI MEHREREN KERNEN
+title: Die Grundlegende Computer-Architektur
 ---
 
 ## Die Grundlegende Computer-Architektur
