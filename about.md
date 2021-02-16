@@ -35,4 +35,4 @@ title: Über mich
 
 * Email: sascha.baranji@outlook.de
 
-Xing Profil : <a href="https://www.xing.com/profile/Sascha_Baranji3/cv">Sascha Baranji</a>
+* Xing Profil : <a href="https://www.xing.com/profile/Sascha_Baranji3/cv">Sascha Baranji</a>
