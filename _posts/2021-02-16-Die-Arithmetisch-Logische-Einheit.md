@@ -4,7 +4,7 @@ title: Hardware-Wissen
 ---
 
 
-<a href="https://sascha-baranji.tk/TestPost/"> ![Prozessor](/public/pictures/prozessor3.jpg) </a>
+<a href="https://sascha-baranji.tk/Die-Arithmetisch-Logische-Einheit/"> ![Prozessor](/public/pictures/prozessor3.jpg) </a>
 
 ## Die Arithmetisch-logische-Einheit (ALU)
 
