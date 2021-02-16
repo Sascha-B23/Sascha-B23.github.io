@@ -1,0 +1,10 @@
+---
+layout: page
+title: COMPUTERPERFORMANZ BEI MEHREREN KERNEN
+---
+
+## Die Grundlegende Computer-Architektur
+
+![My helpful screenshot](/public/arch.png)
+
+Um zu verstehen, wie ein Prozessor funktioniert, muss man ihn erst im gesamten Kontext betrachten. Die von-Neumann-Architektur bildet die Grundlage für die Arbeitsweise der meisten heute bekannten Computer. Abbildung 1 zeigt eine erweiterte von-Neumann-Architektur, welche sich durch erweiterte Systemkomponenten näher an die Realität annähert. Die CPU, die in den nächsten Kapiteln ausführlicher angesprochen wird, übernimmt im Grunde die Ausführung der Befehle und die Ablaufsteuerung. Dazu erfolgt die schrittweise Erfassung der Befehle und Daten aus dem Speicher über ein Bus-System . Das Bus-System ermöglicht außerdem die Kommunikation mit der an der I/O Einheit angeschlossenen Peripherie und dem Hauptprozessor. Zur Steuerung des kompletten Datenflusses bedarf es einem Systemtakt, der vom Taktgeber erzeugt wird. Des Weiteren existieren in einem Computer Datenspeicher, wie zum Beispiel Halbleiterspeicher, welche ihre Daten ohne Stromversorgung speichern können, diese werden hier jedoch nicht weiter angesprochen.
