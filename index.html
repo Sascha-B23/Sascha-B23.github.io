@@ -4,22 +4,20 @@ title: Home
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for topic in paginator.topics %}
   <div class="post">
     <h1 class="post-title">
-      <a href="{{ post.url | absolute_url }}">
-        {{ post.title }}
+      <a href='{{ topic.title | append: ".html" | absolute_url }}'>
+        {{ topic.title }}
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
+    {{ topic.content }}
   </div>
   {% endfor %}
 </div>
 
-<div class="pagination">
+<!-- <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Ältere Posts</a>
   {% else %}
@@ -34,5 +32,5 @@ title: Home
   {% else %}
     <span class="pagination-item newer">Neuere Posts</span>
   {% endif %}
-</div>
+</div> -->
 
