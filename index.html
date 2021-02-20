@@ -7,7 +7,7 @@ title: Home
   {% for topic in paginator.topics %}
   <div class="post">
     <h1 class="post-title">
-      <a href='{{ topic.title | append: ".html" | absolute_url }}'>
+      <a href='{{ topic.title | absolute_url }}'>
         {{ topic.title }}
       </a>
     </h1>
