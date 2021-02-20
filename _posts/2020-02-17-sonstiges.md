@@ -7,4 +7,4 @@ title: Algorithmik
 
 ![My helpful screenshot](/public/pictures/sonstiges.jpg)
 
-[<ins>Posts</ins>]({% link sontiges.html %})
+[<ins>Posts</ins>]({% link sontiges %})
