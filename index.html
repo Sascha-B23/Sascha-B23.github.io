@@ -5,7 +5,7 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-  {% if post.title == "Algorithmik" | post.title == "Datenbanken" | post.title == "Programmierung"%}
+  {% if post.title == "Algorithmik" ||"Datenbanken" || "Programmierung"%}
   <div class="post">
     <h1 class="post-title">
       <a href='{{ post.title | downcase | absolute_url }}'>
