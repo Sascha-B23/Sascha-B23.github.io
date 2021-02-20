@@ -6,7 +6,7 @@ title: Über mich
 ![My helpful screenshot](/public/pictures/ich.JPG)
 
 <p class="message">
-  Hi, ich bin Sascha Baranji und studiere Wirtschaftsinformatik an der Hochschule Albstadt-Sigmaringen. Ich liebe es, mich in komplexe Themenstelungen aus dem Umfeld der Informatik, Mathematik oder Betriebswirtschaftslehre einzudenken und interessiere mich besonders für Themen wie Webentwicklung oder ERP-Systeme (insbesondere SAP).
+  Hi, ich bin Sascha Baranji und studiere Wirtschaftsinformatik an der Hochschule Albstadt-Sigmaringen. Ich liebe es, mich in komplexe Themenstellungen aus dem Umfeld der Informatik, Mathematik oder Betriebswirtschaftslehre einzudenken und interessiere mich besonders für Themen wie Webentwicklung oder ERP-Systeme (insbesondere SAP).
 </p>
 
 > Momentan befinde ich mich im fünften Semester mit dem Schwerpunkt Anwendungsentwicklung.
@@ -27,7 +27,7 @@ title: Über mich
 
 
 <p class="message">
-  Dieser Blog ist dazu da, meine bisherigen Erfahrungen und Gelerntes festzuhalten. Darüber hinaus möchte ich posts zu den verschiedensten Themenstellungen veröffentlichen, die mich gerade interessieren.
+  Dieser Blog ist dazu da, meine bisherigen Erfahrungen und Gelerntes festzuhalten. Darüber hinaus möchte ich Posts zu den verschiedensten Themenstellungen veröffentlichen, die mich gerade interessieren.
   Danke für die Aufmerksamkeit und viel Spaß beim Lesen meiner Artikel! :)
 </p>
 
