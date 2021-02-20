@@ -5,8 +5,7 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-  {{ post.url | split: " "}}
-  {% if post.url | split: " " | first == String%}
+
   <div class="post">
     <h1 class="post-title">
       <a href='{{ post.title | absolute_url }}'>
