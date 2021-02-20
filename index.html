@@ -8,7 +8,7 @@ title: Home
   {% if post.title == "Algorithmik" %}
   <div class="post">
     <h1 class="post-title">
-      <a href='{{ post.title | absolute_url }}'>
+      <a href='{{ post.title | downcase | absolute_url }}'>
         {{ post.title }}
       </a>
     </h1>
