@@ -15,7 +15,7 @@ title: Über mich
 ### Kompetenzen
 
 <p class="message">
-  In den bisherigen Semestern durfte ich mich mit verschiedenen Themenstellungen auseinandersetzen und konnte mir durch die Angebotenen Lehveranstaltungen und Praktika in vielen Disziplinen der Informatik und Betribswirtschaftslehre ein solides Grundwissen aufbauen. Besonders intensiv habe ich mich mit folgenden Modulen beschäftigt: 
+  In den bisherigen Semestern durfte ich mich mit verschiedenen Themenstellungen auseinandersetzen und konnte mir durch die Angebotenen Lehveranstaltungen und Praktika in vielen Disziplinen der Informatik und Betriebswirtschaftslehre ein solides Grundwissen aufbauen. Besonders intensiv habe ich mich mit folgenden Modulen beschäftigt: 
   
 </p>
 
